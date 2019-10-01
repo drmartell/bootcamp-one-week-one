@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva|Quicksand&display=swap');
+
+body {
+    background-color: rgb(198, 245, 252);
+    font-family: Quicksand;
+    border-style: solid;
+    padding: 20px;
+}
+
+#intro {
+    margin: 5px;
+}
+
+h1, h2, h3, h4 {
+    font-family: Mansalva;
+    color: #654dea;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: black;
+    margin-left: 25%;
+}
+
+#the-promise {
+    width: 50%;
+}
+
+ol {
+    margin-left: 25%;
+}
+
+span {
+    font-weight: bold;
+}
+
+.my-button {
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+figure {
+}
+
+figcaption {
+    font-style: italic;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#quiz-results {
+    /* display: flex;
+    justify-content: center; */
+    font-size: 18px;
+    /* padding: 10px; */
+    margin-left: 25%;
+    width: 50%;
+}
